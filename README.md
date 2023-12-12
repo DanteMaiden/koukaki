@@ -1,2 +1,2 @@
-# Planty
-HTML/ CSS/ PHP Project
+# Koukaki
+HTML/ CSS/ PHP Project on Wordpress
