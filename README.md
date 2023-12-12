@@ -1,2 +1,2 @@
-# koukaki
-Projet de site Wordpress pour un studio d'animation
+# Planty
+HTML/ CSS/ PHP Project
